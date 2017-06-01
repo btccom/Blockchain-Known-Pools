@@ -521,6 +521,10 @@
         "1AZ6BkCo4zgTuuLpRStJH8iNsehXTMp456" : {
             "name" : "BitcoinIndia",
             "link" : "https://pool.bitcoin-india.org/"
+        },
+        "1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ" : {
+            "name" : "WaterHole",
+            "link" : "https://waterhole.io/"
         }
     }
 }
