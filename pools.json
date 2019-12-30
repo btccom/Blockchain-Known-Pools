@@ -429,8 +429,8 @@
             "link" : "https://sigmapool.com"
         },
         "/www.okpool.top/": {
-            "name" : "okpool.top",
-            "link" : "https://www.okex.com"
+            "name" : "OKExPool",
+            "link" : "https://www.okex.com/pool"
         },
         "HummerPool": {
             "name" : "Hummerpool",
