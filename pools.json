@@ -432,6 +432,10 @@
             "name" : "OKExPool",
             "link" : "https://www.okex.com/pool"
         },
+        "/www.okex.com/": {
+            "name" : "OKExPool",
+            "link" : "https://www.okex.com/pool"
+        },
         "HummerPool": {
             "name" : "Hummerpool",
             "link" : "https://www.hummerpool.com"
