@@ -535,6 +535,10 @@
         "/ArkPool/": {
             "name": "ArkPool",
             "link": "https://www.arkpool.com/"
+        },
+        "/PureBTC.COM/" : {
+            "name": "PureBTC.COM",
+            "link": "https://purebtc.com"
         }
     },
     "payout_addresses" : {
