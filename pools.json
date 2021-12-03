@@ -1,6 +1,6 @@
 {
     "coinbase_tags" : {
-        "/LUXOR/": {
+        "/LUXOR/": { 
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
         },
@@ -9,7 +9,7 @@
             "link": "https://www.1thash.top"
         },
         "/1THash/": {
-            "name": "1THash",
+            "name": "1THash", 
             "link": "https://www.1thash.top"
         },
         "/BTC.COM/" : {
