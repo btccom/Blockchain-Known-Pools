@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "terrapool.io": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io/"
+        },
         "/LUXOR/": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
@@ -558,6 +562,10 @@
         }
     },
     "payout_addresses" : {
+        "3Qqp7LwxmSjPwRaKkDToysJsM3xA4ThqFk": {
+            "name": "Terra Pool",
+            "link": "https://terrapool.io/"
+        },
         "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
             "name": "Luxor",
             "link": "https://mining.luxor.tech"
