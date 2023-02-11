@@ -552,6 +552,10 @@
             "name" : "EMCDPool",
             "link" : "https://pool.emcd.io"
         },
+        "emcd" : {
+            "name" : "EMCDPool",
+            "link" : "https://pool.emcd.io"
+        },
         "Foundry USA Pool" : {
             "name" : "Foundry USA",
             "link" : "https://foundrydigital.com/"
