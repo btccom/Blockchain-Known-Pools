@@ -581,6 +581,11 @@
             "link" : "https://www.pega-pool.com"
         }
     },
+        "/Binance/" : {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com"
+        }
+    },
     "payout_addresses" : {
         "1MkCDCzHpBsYQivp8MxjY5AkTGG1f2baoe": {
             "name": "Luxor",
@@ -1305,6 +1310,11 @@
         "1BGFwRzjCfRR7EvRHnzfHyFjGR8XiBDFKa" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
+        },
+        "RTagnjVLjxGk3wcz5JPWzBYxEXo2Ci146f" : {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com"
+
         }
     }
 }
