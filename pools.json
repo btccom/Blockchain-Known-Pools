@@ -583,6 +583,10 @@
         "/pegapool/" : {
             "name" : "PEGA Pool",
             "link" : "https://www.pega-pool.com"
+        },
+        "WhitePool" : {
+            "name" : "WhitePool",
+            "link" : ""
         }
     },
     "payout_addresses" : {
