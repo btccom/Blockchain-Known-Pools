@@ -1688,5 +1688,16 @@
     ],
     "tags": ["/MaxiPool/"],
     "link": "https://maxipool.org/"
+  },
+  {
+    "id": 156,
+    "name": "DrDetroit",
+    "addresses": [
+      "tb1qtcruplnz89xw5f86kw8sj7x9r23d5yffrysx2p"
+    ],
+    "tags": [
+      "DrDetroit"
+    ],
+    "link": "https://x.com/bankhatin"
   }
 ]
